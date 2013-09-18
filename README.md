@@ -117,3 +117,6 @@ API
 
 更多示例
 --------------
+[between-points Example](http://ufologist.github.io/between-points/between-points-example.html)
+
+[example src](https://github.com/ufologist/between-points/tree/master/example)
