@@ -15,7 +15,7 @@ between-points(v1.0.0)
 
 使用效果
 --------------
-[between-points使用效果](http://ufologist.github.io/between-points/images/between-points-example.png)
+![between-points使用效果](http://ufologist.github.io/between-points/images/between-points-example.png)
 
 
 使用方法
