@@ -1,0 +1,57 @@
+.between-points-example {
+    font-family: 'Playball', cursive;
+    margin-top: 0;
+    background-color: #f0f0f0;
+}
+
+.example {
+    height: 400px;
+    margin: 0 auto;
+}
+
+.between-points-example h1 {
+    margin-top: 5px;
+    margin-bottom: 40px;
+    border-top: 5px solid #0d58a6;
+    font-size: 1.7em;
+    color: #eee;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, .8);
+}
+.subtitle {
+    margin: 5px;
+    color: #aaa;
+    font-size: 12px;
+    text-align: right;
+    text-shadow: none;
+}
+
+.example-container {
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,.4);
+    border-radius: 5px;
+}
+
+.between-points-example h2 {
+    padding: 15px;
+    margin-bottom: 0;
+    border-bottom: 5px solid #555;
+    background-color: #dfdfdf;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 #CCC,
+                 0 2px 0 #C9C9C9,
+                 0 3px 0 #BBB,
+                 0 4px 0 #B9B9B9,
+                 0 5px 0 #AAA,
+                 0 6px 1px rgba(0, 0, 0, .1),
+                 0 0 5px rgba(0, 0, 0, .1),
+                 0 1px 3px rgba(0, 0, 0, .3),
+                 0 3px 5px rgba(0, 0, 0, .2),
+                 0 5px 10px rgba(0, 0, 0, .25),
+                 0 10px 10px rgba(0, 0, 0, .2),
+                 0 20px 20px rgba(0, 0, 0, .15);
+}
+.tip {
+    font-size: smaller;
+    color: #aaaaff;
+}
