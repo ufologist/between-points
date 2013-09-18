@@ -19,7 +19,7 @@ v1.0.0 2013-9-16
 ![between-points使用效果](http://ufologist.github.io/between-points/images/between-points-example.png)
 
 
-使用方法
+使用示例
 --------------
     <!doctype html>
     <html lang="en">
