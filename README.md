@@ -1,5 +1,6 @@
-between-points(v1.0.0)
+between-points
 ==============
+v1.0.0 2013-9-16
 
 通过点击Highcharts X-Y轴系列图形(如line, area, column, bar)上的点来获取差值, 以连接线的形式来展现他们的关系.
 
@@ -85,10 +86,10 @@ between-points(v1.0.0)
 
 API
 --------------
-    // 画出差值线有竖向和横向2种模式
+    // 1. 选择一种画差值线的模式(竖向和横向)
     var direction = ['portrait', 'landscape'];
     
-    // 可选配置项(这里列举的都是默认值)
+    // 2. 可选配置项(这里列举的都是默认值)
     var options = {
         higherPointOffset: 20,        // 最高点延长线的偏移量
         textOffset: 5,                // 差值文本的偏移量
@@ -106,9 +107,11 @@ API
             'font-weight': 'bold'
         }
     };
+    
+    // 3. 新建实例
     var betweenPoints = new Highcharts.BetweenPoints(direction[1], options);
     
-    // 一般在图形plotOptions的click方法中调用between即可
+    // 4. 一般在图形plotOptions的click方法中调用between即可
     betweenPoints.between(this);
 
 
