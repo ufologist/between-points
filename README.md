@@ -83,7 +83,7 @@ v1.0.0 2013-9-16
     </script>
 </body>
 </html>
-
+```
 
 API
 --------------
@@ -115,7 +115,7 @@ var betweenPoints = new Highcharts.BetweenPoints(direction[1], options);
 
 // 4. 一般在图形plotOptions的click方法中调用between即可
 betweenPoints.between(this);
-
+```
 
 更多示例
 --------------
