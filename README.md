@@ -43,7 +43,7 @@ v1.0.0 2013-9-16
     <script src="http://lib.sinaapp.com/js/jquery/1.8.2/jquery.min.js"></script>
     <script src="http://code.highcharts.com/highcharts.js"></script>
 
-    <script src="https://raw.github.com/ufologist/between-points/master/highcharts.between-points.js"></script>
+    <script src="https://rawgithub.com/ufologist/between-points/master/highcharts.between-points.js"></script>
 
     <script>
     var betweenPoints = new Highcharts.BetweenPoints();
