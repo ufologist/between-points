@@ -7,11 +7,11 @@ v1.0.0 2013-9-16
 
 支持图形
 --------------
-1. line
-2. area
-3. column
-4. inverted line, area, column
-5. bar
+* line
+* area
+* column
+* inverted line, area, column
+* bar
 
 
 使用效果
