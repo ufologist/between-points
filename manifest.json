@@ -1,0 +1,26 @@
+{
+    "name": "between-points",
+    "version": "1.0.0",
+    "title": "Between Points",
+    "author": {
+        "name": "Sun",
+        "url": "https://github.com/ufologist/between-points"
+    },
+    "licenses": [{
+        "type": "MIT"
+    }],
+    "dependencies": {
+        "highcharts": ""
+    },
+    "description": "通过点击Highcharts X-Y轴系列图形(如line, area, column, bar)上的点来获取差值, 以连接线的形式来展现他们的关系.",
+    "keywords": [
+        "interactive",
+        "enhancement",
+        "compare"
+    ],
+    "homepage": "http://ufologist.github.io/between-points/", 
+    "docs": "https://github.com/ufologist/between-points", 
+    "demo": [
+        "http://ufologist.github.io/between-points/between-points-example.html"
+    ]
+}
