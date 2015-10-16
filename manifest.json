@@ -4,10 +4,11 @@
     "title": "Between Points",
     "author": {
         "name": "Sun",
-        "url": "https://github.com/ufologist/between-points"
+        "url": "https://github.com/ufologist"
     },
     "licenses": [{
-        "type": "MIT"
+        "type": "MIT",
+        "url": "https://github.com/ufologist/between-points"
     }],
     "dependencies": {
         "highcharts": ">=3.0.0"
@@ -19,8 +20,14 @@
         "compare"
     ],
     "homepage": "http://ufologist.github.io/between-points/", 
-    "docs": "https://github.com/ufologist/between-points", 
+    "docs": "https://github.com/ufologist/between-points",
+    "bugs": "https://github.com/ufologist/between-points/issues",
+    "download": "https://github.com/ufologist/between-points/archive/master.zip",
     "demo": [
         "http://ufologist.github.io/between-points/between-points-example.html"
-    ]
+    ],
+    "maintainers": [{
+        "name": "Sun",
+        "url": "https://github.com/ufologist"
+    }]
 }
