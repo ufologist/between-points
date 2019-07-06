@@ -40,10 +40,10 @@ v1.0.0 2013-9-16
     <h2>column chart example</h2>
     <div id="column-example" class="example"></div>
 
-    <script src="http://lib.sinaapp.com/js/jquery/1.8.2/jquery.min.js"></script>
-    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="//lib.sinaapp.com/js/jquery/1.8.2/jquery.min.js"></script>
+    <script src="//code.highcharts.com/highcharts.js"></script>
 
-    <script src="https://rawgithub.com/ufologist/between-points/master/highcharts.between-points.js"></script>
+    <script src="//cdn.jsdelivr.net/gh/ufologist/between-points@master/highcharts.between-points.js"></script>
 
     <script>
     var betweenPoints = new Highcharts.BetweenPoints();
